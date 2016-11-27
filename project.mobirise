@@ -1,591 +1,887 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "DASCOIN REVOLUTION",
     "versionFirst": "3.7.3",
     "versionPublish": "3.9.2",
-    "name": "Gainbitcoin",
+    "name": "NewSite-10-10_1338",
     "theme": {
-      "name": "mobirise3",
-      "title": "Mobirise 3",
-      "styling": {
-        "primaryColor": "#c0a375",
-        "secondaryColor": "#000000",
-        "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
-        "titleFont": "Oswald",
-        "subtitleFont": "Oswald",
-        "textFont": "Lora",
-        "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
-      }
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
     },
     "publishType": "github",
-    "publishPath": "file:///C:/Users/dell/Desktop/Gainbitcoin%20site",
-    "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "favicon": "",
-    "noImageResize": "",
     "uniqCompNum": 0
   },
   "pages": {
-    "index.html": {
+    "DASCOIN REVOLUTION": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "DASCOIN REVOLUTION",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 2
       },
       "components": [
         {
           "_inherit": "msg-box5",
           "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            },
-            "H3": {
-              "font-size": "32px"
-            },
-            "P": {
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-size": "17px",
-              "color": "#faaf40"
-            },
-            "SPAN": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "30px",
+            ".mbr-header__text": {
               "color": "#ffffff"
             },
-            "I": {
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
             },
-            "B": {
-              "color": "#ffffff",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__text SPAN": {
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "32px"
             }
           },
-          "_name": "msg-box6",
-          "_anchor": "index-msg-box6-0",
+          "_name": "msg-box4",
+          "_anchor": "index-msg-box4-0",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/uranium-2000x1500-22.jpg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2c82c9",
             "bgColorRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "inverse": true,
+            "overlayColor": "#222",
+            "inverse": false,
             "showTitle": true,
+            "showMeta": false,
             "showText": true,
             "showButtons": true
           },
           "media": {
             "image": {
+              "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/desert.jpg"
+              "src": "images/iphone.png"
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=lnVke_hD5R4",
+              "src": "https://www.youtube.com/watch?v=UIlPIQKK_dg",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false,
               "active": true
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "link": "",
               "size": 0
             }
           },
-          "title": "<span style=\"line-height: 1.1;\">GAINBITCOIN</span><br>Real Company &amp; Real Mining<br><span style=\"font-family: Oswald, sans-serif; line-height: 1.1;\">As You Can See My Friends Visited The MiningFarm &nbsp; Chengdu (China)&nbsp;</span><br>",
-          "text": "<b>Gainbitcoin give you opportunity with return&nbsp;Bitcoins<i><br>1 BTC give you 1.8 BTC 10% per month for 18 months<br>We are on Blokchain ( GBminers )<br>5% direct comission</i></b><br><b><i> 8% with binary bonus(weaker leg)<br></i>Bitcoin Could Be Worth $1M in 10 Years&nbsp;<br><i>Create your account and Let's Do this together&nbsp;</i></b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.gainbitcoin.com/signup/chintox\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN NOW And Let's MAKE OUR LIFE BETTER </a>"
+          "headerAlign": "left",
+          "title": "<span style=\"font-family: inherit; line-height: 1.5em;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;DASCOIN &nbsp; &nbsp;&nbsp;</span><span style=\"font-family: inherit; line-height: 1.5em;\"><br></span>The Hybrid Solution!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "DasCoin combines the best qualities of decentralized cryptocurrencies with the best aspects of centralized currencies – and eliminates their weaknesses.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>"
         },
         {
-          "_inherit": "menu",
+          "_inherit": "msg-box5",
           "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
+            ".mbr-header__text": {
+              "color": "#27aae0",
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
-            ".navbar-caption": {
+            ".mbr-header__subtext": {
               "color": "#ffffff"
             },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
+            ".mbr-article": {
               "color": "#ffffff",
-              "transition": "none"
+              "font-size": "22px"
             },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
+            ".mbr-article DIV": {
+              "font-size": "15px"
             },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+            ".mbr-article P": {
+              "font-size": "22px"
             }
           },
-          "_name": "ext.menu",
-          "_anchor": "index-ext_menu-0",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gainbtc-426x128-42.jpg",
-              "height": 128,
-              "alt": "Gainbitcoin",
-              "link": "https://www.gainbitcoin.com/signup/chintox",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"> </a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.gainbitcoin.com/signup/chintox\" target=\"_blank\" aria-expanded=\"false\">GAINBITCOIN </a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://www.gainbitcoin.com/signup/chintox\" target=\"_blank\">JOIN NOW</a></li>"
-        },
-        {
-          "_inherit": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_name": "social-buttons3",
-          "_anchor": "index-social-buttons3-0",
+          "_name": "msg-box4",
+          "_anchor": "index-msg-box4-1",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
             "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "facebook": false,
-            "twitter": false,
-            "google": false,
-            "vkontakte": false,
-            "odnoklassniki": false
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
           },
-          "text": "CRYPTO CURENCY IS THE FUTURE<br>&nbsp; Bitcoin Could Be Worth $1M in 10 Years"
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dascoin-affiliate-1400x1400-55.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "center",
+          "title": "FEATURES<br><br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p></p><p></p><p></p><p>- DECENTRALIZED ECOSYSTEM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p><p>- INSTANT TRANSACTIONS</p>- PERMISSIONED BLOCKCHAIN<p></p>- ROBUST MARKETING &nbsp; &nbsp;&nbsp;<p></p><p></p><p>- PRIVACY WITH TRANSPARENCY</p><p>- DYNAMIC PROVISIONINg</p><p>- FULL COMPLIANCE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p><p>- FRICTIONLESS EXCHANGE</p><p>- CENTRALIZED EMISSIONS</p><p>- DISTRIBUTED NETWORK<br></p><p><br></p><p><br></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TAKE THE ACTION NOW                   </a>"
         }
       ]
     },
-    "page1.html": {
+    "page3.html": {
       "settings": {
-        "title": "",
+        "title": "DASCOIN REVOLUTION",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 3
       },
       "components": [
         {
           "_inherit": "msg-box5",
           "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            },
-            "H3": {
-              "font-size": "32px"
-            },
-            "P": {
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-size": "17px",
-              "color": "#faaf40"
-            },
-            "SPAN": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "30px",
+            ".mbr-header__text": {
               "color": "#ffffff"
             },
-            "I": {
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
             },
-            "B": {
-              "color": "#ffffff",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__text SPAN": {
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "32px"
             }
           },
-          "_name": "msg-box6",
-          "_anchor": "page1-msg-box6-0",
+          "_name": "msg-box4",
+          "_anchor": "page3-msg-box4-0",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/uranium-2000x1500-22.jpg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2c82c9",
             "bgColorRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "inverse": true,
+            "overlayColor": "#222",
+            "inverse": false,
             "showTitle": true,
+            "showMeta": false,
             "showText": true,
             "showButtons": true
           },
           "media": {
             "image": {
+              "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/desert.jpg"
+              "src": "images/iphone.png"
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=lnVke_hD5R4",
+              "src": "https://www.youtube.com/watch?v=UIlPIQKK_dg",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false,
               "active": true
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "link": "",
               "size": 0
             }
           },
-          "title": "GAINBITOIN<br>Real Company &amp; Real Mining<br><span style=\"font-family: Oswald, sans-serif; line-height: 1.1;\">As You Can See My Friends Visited The MiningFarm &nbsp; Chengdu (China)&nbsp;</span><br>",
-          "text": "<b>Gainbitcoin give you opportunity with return&nbsp;Bitcoins<i><br>1 BTC give you 1.8 BTC 10% per month for 18 months<br>We are on Blokchain ( GBminers )<br>5% direct comission</i></b><br><b><i> 8% with binary bonus(weaker leg)<br></i>Bitcoin Could Be Worth $1M in 10 Years&nbsp;<br><i>Create your account and Let's Do this together&nbsp;</i></b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.gainbitcoin.com/signup/chintox\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN NOW And Let's MAKE OUR LIFE BETTER </a>"
+          "headerAlign": "left",
+          "title": "<span style=\"font-family: inherit; line-height: 1.5em;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;DASCOIN &nbsp; &nbsp;&nbsp;</span><span style=\"font-family: inherit; line-height: 1.5em;\"><br></span>The Hybrid Solution!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "DasCoin combines the best qualities of decentralized cryptocurrencies with the best aspects of centralized currencies – and eliminates their weaknesses.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>"
         },
         {
-          "_inherit": "menu",
+          "_inherit": "msg-box5",
           "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
+            ".mbr-header__text": {
+              "color": "#27aae0",
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
-            ".navbar-caption": {
+            ".mbr-header__subtext": {
               "color": "#ffffff"
             },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
+            ".mbr-article": {
               "color": "#ffffff",
-              "transition": "none"
+              "font-size": "14px"
             },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
+            ".mbr-article DIV": {
+              "font-size": "15px"
             },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+            ".mbr-article P": {
+              "font-size": "16px",
+              "color": "#ffffff"
             }
           },
-          "_name": "ext.menu",
-          "_anchor": "page1-ext_menu-0",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gainbtc-426x128-42.jpg",
-              "height": 128,
-              "alt": "Gainbitcoin",
-              "link": "https://www.gainbitcoin.com/signup/chintox",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"> </a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.gainbitcoin.com/signup/chintox\" target=\"_blank\" aria-expanded=\"false\">GAINBITCOIN </a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://www.gainbitcoin.com/signup/chintox\" target=\"_blank\">JOIN NOW</a></li>"
-        },
-        {
-          "_inherit": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_name": "social-buttons3",
-          "_anchor": "page1-social-buttons3-0",
+          "_name": "msg-box4",
+          "_anchor": "page3-msg-box4-1",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
             "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "facebook": false,
-            "twitter": false,
-            "google": false,
-            "vkontakte": false,
-            "odnoklassniki": false
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
           },
-          "text": "CRYPTO CURENCY IS THE FUTURE<br>&nbsp; Bitcoin Could Be Worth $1M in 10 Years"
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dascoin-affiliate-1400x1400-55.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "center",
+          "title": "FEATURES<br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p></p><p></p><p></p><p>- DECENTRALIZED ECOSYSTEM : The combination of blockchain and distributed network creates an autonomous ecosystem that offers integrity, security and performance</p><p>- INSTANT TRANSACTIONS : Trades and transactions take place instantly and are non-repudiated providing maximum efficiency and integrity.</p><p>- PERMISSIONED BLOCKCHAIN : Only verified participants are enabled to transact in the ledger system, creating an atmosphere of integrity</p><p>- ROBUST MARKETING : &nbsp; The best of corporate marketing together with the best of decentralized affiliate marketing vastly extends interest and activity related to DasCoin.</p><p>&nbsp;- PRIVACY WITH TRANSPARENCY : Identification content within all transactions recorded to the blockchain is obfuscated, providing privacy yet maintaining the integrity of the history of transactions</p><p>- DYNAMIC PROVISIONING :Additional infrastructure is automatically allocated to support network growth based on current demand level.</p><p>- CENTRALIZED EMISSIONS : The combination of blockchain and distributed network creates an autonomous ecosystem that offers integrity, security and performance.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TAKE THE ACTION NOW                   </a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "page3-footer1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
-    "page2.html": {
+    "page4.html": {
       "settings": {
-        "title": "",
+        "title": "DASCOIN REVOLUTION",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 4
       },
       "components": [
         {
           "_inherit": "msg-box5",
           "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            },
-            "H3": {
-              "font-size": "32px"
-            },
-            "P": {
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-size": "17px",
-              "color": "#faaf40"
-            },
-            "SPAN": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "30px",
+            ".mbr-header__text": {
               "color": "#ffffff"
             },
-            "I": {
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
             },
-            "B": {
-              "color": "#ffffff",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__text SPAN": {
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "32px"
             }
           },
-          "_name": "msg-box6",
-          "_anchor": "page2-msg-box6-0",
+          "_name": "msg-box4",
+          "_anchor": "page4-msg-box4-0",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/uranium-2000x1500-22.jpg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2c82c9",
             "bgColorRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "inverse": true,
+            "overlayColor": "#222",
+            "inverse": false,
             "showTitle": true,
+            "showMeta": false,
             "showText": true,
             "showButtons": true
           },
           "media": {
             "image": {
+              "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/desert.jpg"
+              "src": "images/iphone.png"
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=lnVke_hD5R4",
+              "src": "https://www.youtube.com/watch?v=UIlPIQKK_dg",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false,
               "active": true
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "link": "",
               "size": 0
             }
           },
-          "title": "GAINBITOIN<br>Real Company &amp; Real Mining<br><span style=\"font-family: Oswald, sans-serif; line-height: 1.1;\">As You Can See My Friends Visited The MiningFarm &nbsp; Chengdu (China)&nbsp;</span><br>",
-          "text": "<b>Gainbitcoin give you opportunity with return&nbsp;Bitcoins<i><br>1 BTC give you 1.8 BTC 10% per month for 18 months<br>We are on Blokchain ( GBminers )<br>5% direct comission</i></b><br><b><i> 8% with binary bonus(weaker leg)<br></i>Bitcoin Could Be Worth $1M in 10 Years&nbsp;<br><i>Create your account and Let's Do this together&nbsp;</i></b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.gainbitcoin.com/signup/chintox\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN NOW And Let's MAKE OUR LIFE BETTER </a>"
+          "headerAlign": "left",
+          "title": "<span style=\"font-family: inherit; line-height: 1.5em;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;DASCOIN &nbsp; &nbsp;&nbsp;</span><span style=\"font-family: inherit; line-height: 1.5em;\"><br></span>The Hybrid Solution!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "DasCoin combines the best qualities of decentralized cryptocurrencies with the best aspects of centralized currencies – and eliminates their weaknesses.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>"
         },
         {
-          "_inherit": "menu",
+          "_inherit": "msg-box5",
           "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
+            ".mbr-header__text": {
+              "color": "#27aae0",
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
-            ".navbar-caption": {
+            ".mbr-header__subtext": {
               "color": "#ffffff"
             },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
+            ".mbr-article": {
               "color": "#ffffff",
-              "transition": "none"
+              "font-size": "22px"
             },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
+            ".mbr-article DIV": {
+              "font-size": "15px"
             },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+            ".mbr-article P": {
+              "font-size": "22px"
             }
           },
-          "_name": "ext.menu",
-          "_anchor": "page2-ext_menu-0",
+          "_name": "msg-box4",
+          "_anchor": "page4-msg-box4-1",
           "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dascoin-affiliate-1400x1400-55.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "center",
+          "title": "FEATURES<br><br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p></p><p></p><p></p><p>- DECENTRALIZED ECOSYSTEM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p><p>- INSTANT TRANSACTIONS</p>- PERMISSIONED BLOCKCHAIN<p></p>- ROBUST MARKETING &nbsp; &nbsp;&nbsp;<p></p><p></p><p>- PRIVACY WITH TRANSPARENCY</p><p>- DYNAMIC PROVISIONING</p><p>- FULL COMPLIANCE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p><p>- FRICTIONLESS EXCHANGE</p><p>- CENTRALIZED EMISSIONS</p><p>- DISTRIBUTED NETWORK<br></p><p><br></p><p><br></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TAKE THE ACTION NOW                   </a>"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "DASCOIN REVOLUTION",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__text SPAN": {
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "32px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "page5-msg-box4-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2c82c9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=UIlPIQKK_dg",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "<span style=\"font-family: inherit; line-height: 1.5em;\">&nbsp;DASCOIN &nbsp;&nbsp;</span>The Hybrid Solution!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "DasCoin combines the best qualities of decentralized cryptocurrencies with the best aspects of centralized currencies – and eliminates their weaknesses.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#27aae0",
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000",
+              "font-size": "14px"
+            },
+            ".mbr-article DIV": {
+              "font-size": "15px"
+            },
+            ".mbr-article P": {
+              "font-size": "24px",
+              "color": "#000000"
+            },
+            ".mbr-article B": {
+              "font-size": "25px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "page5-msg-box4-1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dascoin-affiliate-1400x1400-55.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "center",
+          "title": "FEATURES<br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p></p><p></p><p></p><p></p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>Earn by promoting</b><p></p><p><span style=\"font-size: 14px;\">Once you are enrolled in our CoinLeaders Affiliate Program, you simply use your coded link to let people know about the fantastic value of the license packages. Anyone who responds will be automatically linked to your account and you (and your upline affiliates) will receive credit for the sale in your CoinLeaders account.</span><br></p><p></p><div><span style=\"font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><b>Marketing Tools</b><br></div><div><span style=\"font-size: 14px;\">To assist you in your marketing efforts, we provide you with a variety of marketing tools, including banner ads, text links, text ads, HTML ads and email templates. We also provide excellent reporting, including tons of charts and graphs and daily activity assessments.</span></div><div><span style=\"font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Payout Options</b></span></div><div><span style=\"font-size: 14px;\">Your commissions will automatically accrue in your account. When you are ready to receive your commissions, you can choose from a number of convenient payment options. Simply choose the amount that you want to receive and the payment method that best suits your needs. Payouts are made on a weekly basis.</span><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TAKE THE ACTION NOW                   </a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "page5-footer1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "DASCOIN REVOLUTION 2": {
+      "settings": {
+        "title": "DASCOIN REVOLUTION",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__text SPAN": {
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "32px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "page6-msg-box4-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2c82c9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=UIlPIQKK_dg",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "<span style=\"font-family: inherit; line-height: 1.5em;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;DASCOIN &nbsp; &nbsp;&nbsp;</span><span style=\"font-family: inherit; line-height: 1.5em;\"><br></span>The Hybrid Solution!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "DasCoin combines the best qualities of decentralized cryptocurrencies with the best aspects of centralized currencies – and eliminates their weaknesses.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#27aae0",
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000",
+              "font-size": "14px"
+            },
+            ".mbr-article DIV": {
+              "font-size": "15px"
+            },
+            ".mbr-article P": {
+              "font-size": "24px",
+              "color": "#000000"
+            },
+            ".mbr-article B": {
+              "font-size": "25px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "page6-msg-box4-1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dascoin-affiliate-1400x1400-16.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "center",
+          "title": "FEATURES<br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p></p><p></p><p></p><p></p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>Earn By Promoting</b><p></p><p><span style=\"font-size: 14px;\">Once you are enrolled in our CoinLeaders Affiliate Program, you simply use your coded link to let people know about the fantastic value of the license packages. Anyone who responds will be automatically linked to your account and you (and your upline affiliates) will receive credit for the sale in your CoinLeaders account.</span><br></p><p></p><div><span style=\"font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><b>Marketing Tools</b><br></div><div><span style=\"font-size: 14px;\">To assist you in your marketing efforts, we provide you with a variety of marketing tools, including banner ads, text links, text ads, HTML ads and email templates. We also provide excellent reporting, including tons of charts and graphs and daily activity assessments.</span></div><div><span style=\"font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Payout Options</b></span></div><div><span style=\"font-size: 14px;\">Your commissions will automatically accrue in your account. When you are ready to receive your commissions, you can choose from a number of convenient payment options. Simply choose the amount that you want to receive and the payment method that best suits your needs. Payouts are made on a weekly basis.</span><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TAKE THE ACTION NOW                   </a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "page6-footer1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "DASCOIN_REVOLUTION 2-menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": false,
             "collapsed": true,
-            "hideButtons": false
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gainbtc-426x128-42.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dascoin-logo-279x128-34.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Gainbitcoin",
-              "link": "https://www.gainbitcoin.com/signup/chintox",
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -593,36 +889,411 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"> </a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.gainbitcoin.com/signup/chintox\" target=\"_blank\" aria-expanded=\"false\">GAINBITCOIN </a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"https://www.gainbitcoin.com/signup/chintox\" target=\"_blank\">JOIN NOW</a></li>"
-        },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEW REVOLUTIONARY CRYPTOCCURENCY</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "DASCOIN REVOLUTION",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
         {
-          "_inherit": "social-buttons1",
+          "_inherit": "msg-box5",
           "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__text SPAN": {
+              "text-align": "right",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "32px"
             }
           },
-          "_name": "social-buttons3",
-          "_anchor": "page2-social-buttons3-0",
+          "_name": "msg-box4",
+          "_anchor": "page6-msg-box4-0",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2c82c9",
             "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "facebook": false,
-            "twitter": false,
-            "google": false,
-            "vkontakte": false,
-            "odnoklassniki": false
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
           },
-          "text": "CRYPTO CURENCY IS THE FUTURE<br>&nbsp; Bitcoin Could Be Worth $1M in 10 Years"
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=UIlPIQKK_dg",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "<span style=\"font-family: inherit; line-height: 1.5em;\">DASCOIN&nbsp;&nbsp; &nbsp;&nbsp;</span><span style=\"font-family: inherit; line-height: 1.5em;\"><br></span>The Hybrid Solution!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "DasCoin combines the best qualities of decentralized cryptocurrencies with the best aspects of centralized currencies – and eliminates their weaknesses.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#27aae0",
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000",
+              "font-size": "14px"
+            },
+            ".mbr-article DIV": {
+              "font-size": "15px"
+            },
+            ".mbr-article P": {
+              "font-size": "24px",
+              "color": "#000000"
+            },
+            ".mbr-article B": {
+              "font-size": "25px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "page6-msg-box4-1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dascoin-affiliate-1400x1400-55.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "center",
+          "title": "FEATURES<br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p></p><p></p><p></p><p></p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>Earn By Promoting</b><p></p><p><span style=\"font-size: 14px;\">Once you are enrolled in our CoinLeaders Affiliate Program, you simply use your coded link to let people know about the fantastic value of the license packages. Anyone who responds will be automatically linked to your account and you (and your upline affiliates) will receive credit for the sale in your CoinLeaders account.</span><br></p><p></p><div><span style=\"font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><b>Marketing Tools</b><br></div><div><span style=\"font-size: 14px;\">To assist you in your marketing efforts, we provide you with a variety of marketing tools, including banner ads, text links, text ads, HTML ads and email templates. We also provide excellent reporting, including tons of charts and graphs and daily activity assessments.</span></div><div><span style=\"font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Payout Options</b></span></div><div><span style=\"font-size: 14px;\">Your commissions will automatically accrue in your account. When you are ready to receive your commissions, you can choose from a number of convenient payment options. Simply choose the amount that you want to receive and the payment method that best suits your needs. Payouts are made on a weekly basis.</span><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TAKE THE ACTION NOW                   </a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "page6-footer1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "DASCOIN REVOLUTION",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__text SPAN": {
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "32px",
+              "color": "#000000"
+            },
+            ".mbr-header__text I": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "page7-msg-box4-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2c82c9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=UIlPIQKK_dg",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "<span style=\"font-family: inherit; line-height: 1.5em;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<i>DasCoin &nbsp; &nbsp;&nbsp;</i></span><i><span style=\"font-family: inherit; line-height: 1.5em;\"><br></span>The Hybrid Solution!</i>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "DasCoin combines the best qualities of decentralized cryptocurrencies with the best aspects of centralized currencies – and eliminates their weaknesses.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#27aae0",
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000",
+              "font-size": "14px"
+            },
+            ".mbr-article DIV": {
+              "font-size": "15px"
+            },
+            ".mbr-article P": {
+              "font-size": "24px",
+              "color": "#000000"
+            },
+            ".mbr-article B": {
+              "font-size": "25px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "page7-msg-box4-1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dascoin-affiliate-1400x1400-16.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "center",
+          "title": "FEATURES<br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p></p><p></p><p></p><p></p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>Earn By Promoting</b><p></p><p><span style=\"font-size: 14px;\">Once you are enrolled in our CoinLeaders Affiliate Program, you simply use your coded link to let people know about the fantastic value of the license packages. Anyone who responds will be automatically linked to your account and you (and your upline affiliates) will receive credit for the sale in your CoinLeaders account.</span><br></p><p></p><div><span style=\"font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><b>Marketing Tools</b><br></div><div><span style=\"font-size: 14px;\">To assist you in your marketing efforts, we provide you with a variety of marketing tools, including banner ads, text links, text ads, HTML ads and email templates. We also provide excellent reporting, including tons of charts and graphs and daily activity assessments.</span></div><div><span style=\"font-size: 14px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Payout Options</b></span></div><div><span style=\"font-size: 14px;\">Your commissions will automatically accrue in your account. When you are ready to receive your commissions, you can choose from a number of convenient payment options. Simply choose the amount that you want to receive and the payment method that best suits your needs. Payouts are made on a weekly basis.</span><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TAKE THE ACTION NOW                   </a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "page7-footer1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "page7-menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": false,
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dascoin-logo-279x128-34.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEW REVOLUTIONARY CRYPTOCCURENCY</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         }
       ]
     }
